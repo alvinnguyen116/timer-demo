@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/timer-demo/static/css/main.2db155a8.chunk.css",
+    "main.js": "/timer-demo/static/js/main.e8fe6823.chunk.js",
+    "main.js.map": "/timer-demo/static/js/main.e8fe6823.chunk.js.map",
+    "runtime-main.js": "/timer-demo/static/js/runtime-main.34e61507.js",
+    "runtime-main.js.map": "/timer-demo/static/js/runtime-main.34e61507.js.map",
+    "static/js/2.3eaeb5d6.chunk.js": "/timer-demo/static/js/2.3eaeb5d6.chunk.js",
+    "static/js/2.3eaeb5d6.chunk.js.map": "/timer-demo/static/js/2.3eaeb5d6.chunk.js.map",
+    "index.html": "/timer-demo/index.html",
+    "precache-manifest.d0a55b304f7218c32b190e905e52cc16.js": "/timer-demo/precache-manifest.d0a55b304f7218c32b190e905e52cc16.js",
+    "service-worker.js": "/timer-demo/service-worker.js",
+    "static/css/main.2db155a8.chunk.css.map": "/timer-demo/static/css/main.2db155a8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34e61507.js",
+    "static/js/2.3eaeb5d6.chunk.js",
+    "static/css/main.2db155a8.chunk.css",
+    "static/js/main.e8fe6823.chunk.js"
+  ]
+}
